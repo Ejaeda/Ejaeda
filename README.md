@@ -15,6 +15,8 @@
 * 개인과제 계획 및 실천 후 깃허브 기록
   * 깃허브 꾸준히 관리하기
   * 깃에 익숙해지기
+<details>
+<summary>스터디 방법</summary>
 ### 스터디 방법 및 규칙
 * 학습 방법
   * 1주마다 자료구조 동료평가 2회 진행
@@ -45,6 +47,7 @@
   * [ichoi](https://github.com/ICCHOI)
   * [jnam](https://github.com/namzisun)
 
+</details>
 
 ## 📌 [Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
 * 📖 교재 : [공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/%EC%97%B4%ED%98%88%EA%B0%95%EC%9D%98-c-%ED%8F%AC%EC%9D%B8%ED%84%B0/)
