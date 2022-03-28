@@ -4,7 +4,6 @@
 ## 📌 [CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
 *  📖 사이트 : [백준](https://www.acmicpc.net/step)
   * [라이벌 제도](https://solved.ac/ranking/rival)를 통한 그룹 라이벌 진도 확인
-  * 최소 1일 1문제 학습 후 [정리](https://github.com/Ejaeda/C_lang/tree/master/CodingTest)
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 
 
@@ -12,9 +11,7 @@
 *  📖 교재 : [윤성우의 열혈 자료구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788996094067)
   * 2인 1개조 동료평가 진행(1주 2파트 진행)
   * 깃허브 개념 정리
-* 개인과제 계획 및 실천 후 깃허브 기록
-  * 깃허브 꾸준히 관리하기
-  * 깃에 익숙해지기
+
 <details>
 <summary>  스터디 방법 (click 👈)  </summary>
     
