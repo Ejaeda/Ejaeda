@@ -16,7 +16,7 @@
   * 깃허브 꾸준히 관리하기
   * 깃에 익숙해지기
 <details>
-<summary>  스터디 방법 (click 👈)  </summary>
+<summary>  스터디 방법 ( ***click*** 👈)  </summary>
     
 ### 스터디 방법 및 규칙
 * 학습 방법
