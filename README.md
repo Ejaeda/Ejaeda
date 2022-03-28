@@ -1,4 +1,4 @@
-# 📌 2022
+# 🗓 2022
     
 
 ## 📌 [CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
