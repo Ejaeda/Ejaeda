@@ -72,6 +72,12 @@
 ----------
 
 # 🗓 2021
+
+## 📌 [C-기본개념학습](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
+* 📖 교재 : [모두의 코드](https://modoocode.com/231)
+    * 첫 C언어 학습
+
+
 <!--
 **Ejaeda/Ejaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
