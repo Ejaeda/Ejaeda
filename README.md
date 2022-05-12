@@ -68,6 +68,10 @@
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
     * [팀 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/Rush0x)
 
+
+----------
+
+# 🗓 2021
 <!--
 **Ejaeda/Ejaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
