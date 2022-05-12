@@ -58,7 +58,7 @@
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 
 
-## 📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC)[Private]
+## 📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC) [Private]
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
     * c언어 함수 자체 구현하기
