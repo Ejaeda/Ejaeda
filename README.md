@@ -63,7 +63,7 @@
     * c언어 함수 자체 구현하기
     * 자체 norminette 고려하기
     * [exam_subject](https://github.com/Ejaeda/42_Study_Group/tree/main/subject/piscine_exam.eng)
-    * [exam](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC/EXAM)
+    * [개인과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
 
 <!--
 **Ejaeda/Ejaeda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
