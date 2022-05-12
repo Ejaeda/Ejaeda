@@ -58,7 +58,7 @@
     * 빠르게 여러번 학습하기
     * 코드 따라하면서 내용 [정리하기](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
-## 📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC)
+## 📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC)[Private]
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
     * c언어 함수 자체 구현하기
     * 자체 norminette 고려하기
