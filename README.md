@@ -63,7 +63,8 @@
 * 학습 목적
     * c언어 함수 자체 구현하기
     * 42-system 자체 norminette 고려하기
-* 
+
+* 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
     * [팀 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/Rush0x)
 
