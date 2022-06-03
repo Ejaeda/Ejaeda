@@ -1,7 +1,7 @@
 # 🗓 2022
     
 
-## 📌 [C-기본개념학습](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
+📌 [C-기본개념학습](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -12,7 +12,7 @@
 
 </details>
     
-## 📌 [C-Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
+📌 [C-Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -23,7 +23,7 @@
 
 </details>    
 
-## 📌 [C-DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
+📌 [C-DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
 
 <details>
 <summary> <kbd>자세히보기</kbd> </summary>
@@ -65,7 +65,7 @@
 </details>
 
 
-## 📌 [C-CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
+📌 [C-CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -75,7 +75,7 @@
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 </details>
 
-## 📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC) [Private]
+📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC) [Private]
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -94,7 +94,7 @@
 
 # 🗓 2021
 
-## 📌 [C-기본개념학습](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
+📌 [C-기본개념학습](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
