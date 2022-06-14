@@ -1,7 +1,7 @@
 # 🗓 2022
     
 
-📌 [C-기본개념학습](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
+📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -88,6 +88,19 @@
 * 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
     * [팀 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/Rush0x)
+</details>
+
+📌 [Python-기본개념](https://github.com/ejaee/Python)
+
+<details>
+<summary>  <kbd>자세히보기</kbd> </summary>
+
+* 📖 교재 : [혼자 공부하는 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241882)
+* 📖 강의 : [혼공파 유튜브](https://www.youtube.com/watch?v=IUXMgyiFBIU&list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7)
+    * 처음으로 학습한 python
+    
+* 학습 목적
+    * python 경험하기
 </details>
 
 ----------
