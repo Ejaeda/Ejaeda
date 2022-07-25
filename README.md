@@ -1,4 +1,4 @@
-# 🗓 2022
+# 🗓 **2022**
     
 📌 [C-42Project](https://github.com/ejaee/42_Project)
 
@@ -119,7 +119,7 @@
 
 ----------
 
-# 🗓 2021
+# 🗓 **2021**
 
 📌 [C-기본개념](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
 
