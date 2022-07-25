@@ -1,5 +1,19 @@
 # 🗓 2022
     
+📌 [C-42Project](https://github.com/ejaee/42_Project)
+
+<details>
+<summary>  <kbd>자세히보기</kbd> </summary>
+
+* 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
+
+<div align="center">
+
+[![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+
+</dev>
+
+</details>
 
 📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
