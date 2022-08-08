@@ -14,7 +14,7 @@
 
 </details>
 
-📌 [C-42Piscine](https://github.com/Ejaeda/42_Study_Group/tree/main/ejae/PiscineC) [Private]
+📌 [C-42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) [Private]
 
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
