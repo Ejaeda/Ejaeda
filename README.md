@@ -253,7 +253,7 @@ I want to be a Java Web Backend Developer
 
 # 🗓 **2021**
 
-📌 [C-기본개념](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
+📌 [C_Study](https://github.com/nawooo/C_lang/blob/master/C-lang/C/readme.md)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
