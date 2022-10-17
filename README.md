@@ -118,6 +118,15 @@
 
 📌 [OS_Study](https://github.com/ejaee/Study_OS) `Private`
 
+<details>
+<summary>  <kbd>자세히보기</kbd> </summary>
+
+* 📖 교재 : [공룡책](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98#curriculum)
+    * 운영체제 학습
+    
+* 📖 학습방법 : 학습한 내용 정리
+
+</details>
 
 <!--
 
