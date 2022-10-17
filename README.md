@@ -7,6 +7,9 @@
 
 📌 [OS_Study](https://github.com/ejaee/Study_OS) `Private`
 
+
+<!--
+
 📌 [C-42Cursus](https://github.com/ejaee/42Cursus) `Short-term Private`
 
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
@@ -36,6 +39,7 @@
     * [팀 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/Rush0x)
 
 </details>
+-->
 
 📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
