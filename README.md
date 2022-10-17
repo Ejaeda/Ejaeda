@@ -86,10 +86,10 @@
     * [DAY8](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure/Ch08.Tree) 트리
     * [DAY9](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure/Ch09.Priority_Queue) 우선순위 큐
     * [DAY10](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure/Ch10.Sorting) 정렬
-    * [DAY11] 탐색
-    * [DAY12] 탐색2
-    * [DAY13] 테이블과 해쉬
-    * [DAY14] 그래프
+    * [DAY11]() 탐색
+    * [DAY12]() 탐색2
+    * [DAY13]() 테이블과 해쉬
+    * [DAY14]() 그래프
 
   ### 관련 개인 Repository
   * [ejchoi](https://github.com/Ejaeda)
