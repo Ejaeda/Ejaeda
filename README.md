@@ -5,6 +5,7 @@
 👋 Hello! I want to be a Java Web Backend Developer
 
 <br/>
+
 <!--
 ### :muscle: **Skills**
 
@@ -21,6 +22,7 @@
 <br/>
 
 #### 💻 Github Stats
+
 -->
 
 ---
@@ -42,6 +44,7 @@
 ## **스터디 방법 및 규칙**
 
 - :calendar: 스케줄
+	
 <div align="center">
 
 <img width="800" alt="Screen Shot 2022-09-19 at 6 16 50 PM" src="https://user-images.githubusercontent.com/87407504/190987625-a1e69272-4191-4e89-8f53-1197126c0a03.png">
