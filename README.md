@@ -1,24 +1,31 @@
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejae8319@gmail.com)](mailto:ejae8319@gmail.com)
 
+👋 Hello! I want to be a Java Web Backend Developer
 
-
+<br/>
+<!--
 ### :muscle: **Skills**
 
 #### Platforms & Languages
 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>  <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=Java&logoColor=white"/>
 
+<br/>
 
 #### Tools
 
 <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=macOS&logoColor=white"/> <img src="https://img.shields.io/badge/Intellij_IDEA-000000?style=flat-square&logo=IntelliJIDEA&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/>
 
+<br/>
 
+#### 💻 Github Stats
+-->
 
+---
 
-# 🗓 **2022**
+## 🗓 **2022**
 
 📌 [JAVA_Study](https://github.com/ejaee/Study_JAVA)
 
@@ -157,7 +164,7 @@
 * 📖 학습방법 : 학습한 내용 아이패드를 활용하여 내용 정리 
 ----
 
-# 🗓 2022
+## 🗓 2022
 
 ## 📌 [C2](https://github.com/ejaee/Study_C/tree/master/C-lang/C2)
 * 📖 교재 : [열혈강의 최호성의 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965400172&orderClick=LAG&Kc=)
