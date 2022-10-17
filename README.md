@@ -160,41 +160,19 @@ I want to be a Java Web Backend Developer
 </details>
 -->
 
-📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
+
+📌 [Python-기본개념](https://github.com/ejaee/Python) `Private`
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
 
-# 🗓 2021
-
-## 📌 [C](https://github.com/ejaee/Study_C/tree/master/C-lang/C)
-
-* 📖 교재 : [모두의 코드](https://modoocode.com/231)
-    * 첫 C언어 학습
+* 📖 교재 : [혼자 공부하는 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241882)
+* 📖 강의 : [혼공파 유튜브](https://www.youtube.com/watch?v=IUXMgyiFBIU&list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7)
+    * 처음으로 학습한 python
     
-* 📖 학습방법 : 학습한 내용 아이패드를 활용하여 내용 정리 
-----
-
-## 🗓 2022
-
-## 📌 [C2](https://github.com/ejaee/Study_C/tree/master/C-lang/C2)
-* 📖 교재 : [열혈강의 최호성의 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965400172&orderClick=LAG&Kc=)
-    * 2회독
-    
-* 📖 학습방법 : 코드 따라하면서 내용 정리
-
+* 학습 목적
+    * python 경험하기
 </details>
-    
-📌 [C-Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
-
-<details>
-<summary>  <kbd>자세히보기</kbd> </summary>
-
-* 📖 교재 : [공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/%EC%97%B4%ED%98%88%EA%B0%95%EC%9D%98-c-%ED%8F%AC%EC%9D%B8%ED%84%B0/)
-    * 포인터 익숙해지기
-    * 코드 따라하면서 내용 [정리하기](https://github.com/Ejaeda/C_lang/tree/master/Pointer)
-
-</details>    
 
 📌 [C-DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
 
@@ -237,6 +215,16 @@ I want to be a Java Web Backend Developer
 
 </details>
 
+📌 [C-Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
+
+<details>
+<summary>  <kbd>자세히보기</kbd> </summary>
+
+* 📖 교재 : [공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/%EC%97%B4%ED%98%88%EA%B0%95%EC%9D%98-c-%ED%8F%AC%EC%9D%B8%ED%84%B0/)
+    * 포인터 익숙해지기
+    * 코드 따라하면서 내용 [정리하기](https://github.com/Ejaeda/C_lang/tree/master/Pointer)
+
+</details>    
 
 📌 [C-CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
 
@@ -248,19 +236,19 @@ I want to be a Java Web Backend Developer
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 </details>
 
-📌 [Python-기본개념](https://github.com/ejaee/Python) `Private`
+📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
 
-* 📖 교재 : [혼자 공부하는 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241882)
-* 📖 강의 : [혼공파 유튜브](https://www.youtube.com/watch?v=IUXMgyiFBIU&list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7)
-    * 처음으로 학습한 python
+## 📌 [C2](https://github.com/ejaee/Study_C/tree/master/C-lang/C2)
+* 📖 교재 : [열혈강의 최호성의 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965400172&orderClick=LAG&Kc=)
+    * 2회독
     
-* 학습 목적
-    * python 경험하기
-</details>
+* 📖 학습방법 : 코드 따라하면서 내용 정리
 
+</details>
+    
 ----------
 
 # 🗓 **2021**
