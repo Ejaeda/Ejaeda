@@ -131,11 +131,10 @@ I want to be a Java Web Backend Developer
 
 📌 [C_42Cursus](https://github.com/ejaee/42Cursus) `Short-term Private`
 
-[![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
-
-
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
+	
+[![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 
@@ -143,10 +142,10 @@ I want to be a Java Web Backend Developer
 
 📌 [C_42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) `Private`
 
-[![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
-
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
+
+[![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
@@ -158,8 +157,6 @@ I want to be a Java Web Backend Developer
     * [팀 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/Rush0x)
 
 </details>
--->
-
 
 📌 [Python_Study](https://github.com/ejaee/Python) `Private`
 
