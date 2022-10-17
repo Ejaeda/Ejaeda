@@ -5,10 +5,10 @@
 
 📌 [JAVA_Study](https://github.com/ejaee/Study_JAVA)
 
-## **📌 JAVA**
-
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
+
+## **📌 JAVA**
 
 - 📖 교재 : [자바의 정석](https://m.yes24.com/UsedShopHub/Hub/24259565)
 - 우테코 일정 고려한 1회독 완성
