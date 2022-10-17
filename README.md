@@ -86,7 +86,7 @@
 - [seohyun](https://github.com/Kang-SeoHyun)
 - [gnl](https://github.com/geun1)
 
-<summary>  <kbd></kbd> </summary>
+<summary>  <kbd> 접기 </kbd> </summary>
 
 </details>
 
