@@ -127,9 +127,9 @@ I want to be a Java Web Backend Developer
 
 </details>
 
-<!--
 
-📌 [C-42Cursus](https://github.com/ejaee/42Cursus) `Short-term Private`
+
+📌 [C_42Cursus](https://github.com/ejaee/42Cursus) `Short-term Private`
 
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
@@ -141,7 +141,7 @@ I want to be a Java Web Backend Developer
 
 </details>
 
-📌 [C-42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) `Private`
+📌 [C_42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) `Private`
 
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
