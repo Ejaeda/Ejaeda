@@ -18,7 +18,7 @@
 
 </details>
 
-📌 [C-42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) [Private]
+📌 [C-42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) `Private`
 
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=9&coalitionId=piscine)](https://github.com/JaeSeoKim/badge42)
 
@@ -110,7 +110,7 @@
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 </details>
 
-📌 [Python-기본개념](https://github.com/ejaee/Python)
+📌 [Python-기본개념](https://github.com/ejaee/Python) `Private`
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
