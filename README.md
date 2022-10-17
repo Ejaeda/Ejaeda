@@ -161,7 +161,7 @@ I want to be a Java Web Backend Developer
 -->
 
 
-📌 [Python-기본개념](https://github.com/ejaee/Python) `Private`
+📌 [Python_Study](https://github.com/ejaee/Python) `Private`
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -174,7 +174,7 @@ I want to be a Java Web Backend Developer
     * python 경험하기
 </details>
 
-📌 [C-DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
+📌 [C_DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
 
 <details>
 <summary> <kbd>자세히보기</kbd> </summary>
@@ -215,7 +215,7 @@ I want to be a Java Web Backend Developer
 
 </details>
 
-📌 [C-Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
+📌 [C_Pointer](https://github.com/Ejaeda/C_lang/tree/master/C-Pointer)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -226,7 +226,7 @@ I want to be a Java Web Backend Developer
 
 </details>    
 
-📌 [C-CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
+📌 [C_CodingTest](https://github.com/Ejaeda/C_lang/tree/master/C-CodingTest)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -236,7 +236,7 @@ I want to be a Java Web Backend Developer
   * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
 </details>
 
-📌 [C-기본개념](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
+📌 [C_Study](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
