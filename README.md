@@ -5,7 +5,7 @@
 
 📌 [JAVA_Study](https://github.com/ejaee/Study_JAVA)
 
-📌 [OS_Study](https://github.com/ejaee/Study_OS)
+📌 [OS_Study](https://github.com/ejaee/Study_OS) `Private`
 
 📌 [C-42Project](https://github.com/ejaee/42_Project)
 
