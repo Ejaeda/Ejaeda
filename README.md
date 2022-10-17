@@ -2,7 +2,6 @@
 
 # 🗓 **2022**
 
-
 📌 [JAVA_Study](https://github.com/ejaee/Study_JAVA)
 
 <details>
@@ -86,7 +85,6 @@
 - [seohyun](https://github.com/Kang-SeoHyun)
 - [gnl](https://github.com/geun1)
 
-<summary>  <kbd> 접기 </kbd> </summary>
 
 </details>
 
