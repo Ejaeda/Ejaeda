@@ -129,7 +129,7 @@ I want to be a Java Web Backend Developer
 
 
 
-📌 [C_42Cursus](https://github.com/ejaee/42Cursus) `Short-term Private`
+📌 [C_42Cursus](https://github.com/ejaee/42Cursus)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
