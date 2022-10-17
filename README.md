@@ -2,9 +2,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fejaee%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ejae8319@gmail.com)](mailto:ejae8319@gmail.com)
 
-👋 Hello! I want to be a Java Web Backend Developer
+👋 Hello! 
 
-<br/>
+I want to be a Java Web Backend Developer
 
 <!--
 ### :muscle: **Skills**
@@ -25,14 +25,13 @@
 
 -->
 
----
 
 ## 🗓 **2022**
 
 📌 [JAVA_Study](https://github.com/ejaee/Study_JAVA)
 
-<details>
-<summary>  <kbd>자세히보기</kbd> </summary>
+<details> 
+<summary> <kbd>자세히보기</kbd> </summary>
 
 ## **📌 JAVA**
 
