@@ -150,7 +150,7 @@ I want to be a Java Web Backend Developer
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
     * c언어 함수 자체 구현하기
-    * 42-system 자체 norminette 고려하기
+    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 교재 만들기
 
 * 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
