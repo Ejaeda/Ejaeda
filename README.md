@@ -137,6 +137,10 @@ I want to be a Java Web Backend Developer
 [![ejachoi's 42 stats](https://badge42.vercel.app/api/v2/cl60us3xz001109mpf946886y/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
 
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
+* 학습 목적
+    * c언어로 다양한 분야 학습하기
+    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 [자료](https://github.com/ejaee/42Cursus/tree/main/Circle_2/push_swap) 만들기
+	
 
 </details>
 
@@ -150,7 +154,7 @@ I want to be a Java Web Backend Developer
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
     * c언어 함수 자체 구현하기
-    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 교재 만들기
+    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 [교재](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx/C02) 만들기
 
 * 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
