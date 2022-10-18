@@ -144,7 +144,7 @@ I want to be a Java Web Backend Developer
 
 </details>
 
-📌 [C_42Piscine](https://github.com/ejaee/42_Study/tree/main/ejae/PiscineCxx) `Private`
+📌 [C_42Piscine](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx) `Private`
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
