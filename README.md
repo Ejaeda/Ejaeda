@@ -36,9 +36,9 @@ I want to be a Java Web Backend Developer
 ## **📌 JAVA**
 
 - 📖 교재 : [자바의 정석](https://m.yes24.com/UsedShopHub/Hub/24259565)
-- 우테코 일정 고려한 1회독 완성
-- 파트별 예제 코드 위주 정리 학습
-- 개인과제 계획 및 실천 후 깃허브 기록
+- 우테코 일정을 고려한 1회독 완성을 목표로 합니다
+- 파트별 예제 코드 위주로 학습합니다
+- 개인과제 실시 후 개념과 코드 위주로 깃허브에 기록합니다
 
 ## **스터디 방법 및 규칙**
 
@@ -117,13 +117,11 @@ I want to be a Java Web Backend Developer
 <summary>  <kbd>자세히보기</kbd> </summary>
 
 * 📖 교재 : [공룡책](https://www.inflearn.com/course/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B3%B5%EB%A3%A1%EC%B1%85-%EC%A0%84%EA%B3%B5%EA%B0%95%EC%9D%98#curriculum)
-    * 운영체제 학습
-    
-* 📖 학습방법 : 학습한 내용 정리
+    * 운영체제를 학습했습니다
+    * 학습한 내용을 개념 위주로 정리합니다
+
 
 </details>
-
-
 
 📌 [C_42Cursus](https://github.com/ejaee/42Cursus)
 
@@ -134,9 +132,8 @@ I want to be a Java Web Backend Developer
 
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
-    * c언어로 다양한 분야 학습하기
-    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 [자료](https://github.com/ejaee/42Cursus/tree/main/Circle_2/push_swap) 만들기
-	
+    * c언어로 다양한 영역을 학습합니다
+    * 42서울의 과제를 주체적으로 해석하여 C언어 학습에 도움이 되는 [자료](https://github.com/ejaee/42Cursus/tree/main/Circle_2/push_swap)를 만들었습니다
 
 </details>
 
@@ -149,8 +146,8 @@ I want to be a Java Web Backend Developer
 
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
-    * c언어 함수 자체 구현하기
-    * 42서울에서 제공하는 과제를 주체적으로 해석하여 누군가에게 학습 도움이 될 수 있도록 [교재](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx/C02) 만들기
+    * c언어에 내장되어있는 함수를 직접 구현하며 C언어를 학습합니다
+    * 42서울의 과제를 주체적으로 해석하여 C언어 학습에 도움이 되는 [교재](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx/C02)를 만들었습니다
 
 * 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
@@ -165,10 +162,11 @@ I want to be a Java Web Backend Developer
 
 * 📖 교재 : [혼자 공부하는 파이썬](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9791162241882)
 * 📖 강의 : [혼공파 유튜브](https://www.youtube.com/watch?v=IUXMgyiFBIU&list=PLBXuLgInP-5kr0PclHz1ubNZgESmliuB7)
-    * 처음으로 학습한 python
+    * 처음으로 python 언어를 학습했습니다 
     
 * 학습 목적
-    * python 경험하기
+    * python 언어를 경험하는데 목적을 두었습니다
+    
 </details>
 
 📌 [C_DataStructure](https://github.com/Ejaeda/C_lang/tree/master/C-DataStructure)
@@ -177,12 +175,12 @@ I want to be a Java Web Backend Developer
 <summary> <kbd>자세히보기</kbd> </summary>
     
 *  📖 교재 : [윤성우의 열혈 자료구조](http://www.kyobobook.co.kr/product/detailViewKor.laf?mallGb=KOR&ejkGb=KOR&barcode=9788996094067)
-  * 2인 1개조 동료평가 진행(1주 2파트 진행)
-  * 깃허브 개념 정리
+  * 2인 1개조 동료평가 진행(1주 2파트 진행)했습니다
+  * 깃허브에 개념 위주의 정리 학습을 했습니다
 
 ### 스터디 방법 및 규칙
 * 학습 방법
-  * 1주마다 자료구조 동료평가 2회 진행
+  * 1주마다 자료구조 동료평가가 2회
   * 1일마다 코딩테스트 문제풀이 최소 1회 진행
   * 개인 학습 내용은 각자 정리 후 README에 업데이트
   
@@ -218,8 +216,8 @@ I want to be a Java Web Backend Developer
 <summary>  <kbd>자세히보기</kbd> </summary>
 
 * 📖 교재 : [공동환의 열혈강의 C 포인터](https://freelec.co.kr/lecture/%EC%97%B4%ED%98%88%EA%B0%95%EC%9D%98-c-%ED%8F%AC%EC%9D%B8%ED%84%B0/)
-    * 포인터 익숙해지기
-    * 코드 따라하면서 내용 [정리하기](https://github.com/Ejaeda/C_lang/tree/master/Pointer)
+    * 포인터에 익숙해지기 위해 학습했습니다
+    * 생경한 코드를 따라해보면서 내용을 [정리](https://github.com/Ejaeda/C_lang/tree/master/Pointer)했습니다
 
 </details>    
 
@@ -229,8 +227,8 @@ I want to be a Java Web Backend Developer
 <summary>  <kbd>자세히보기</kbd> </summary>
 
 *  📖 사이트 : [백준](https://www.acmicpc.net/step)
-  * [라이벌 제도](https://solved.ac/ranking/rival)를 통한 그룹 라이벌 진도 확인
-  * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습
+  * [라이벌 제도](https://solved.ac/ranking/rival)를 활용해 스터디원들과 진도를 확인하며 문제를 풀었습니다
+  * [class](https://solved.ac/class)에 선별된 문제를 참고하여 학습했습니다
 </details>
 
 📌 [C_Study](https://github.com/Ejaeda/C_lang/tree/master/C-lang)
@@ -240,9 +238,8 @@ I want to be a Java Web Backend Developer
 
 ## 📌 [C2](https://github.com/ejaee/Study_C/tree/master/C-lang/C2)
 * 📖 교재 : [열혈강의 최호성의 C 프로그래밍](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788965400172&orderClick=LAG&Kc=)
-    * 2회독
-    
-* 📖 학습방법 : 코드 따라하면서 내용 정리
+    * C언어 2회독 학습 내용을 코드 중심으로 정리했습니다
+    * 이전에 보지 못했거나 새로운 아이디어를 중심으로 정리했습니다
 
 </details>
     
@@ -256,7 +253,8 @@ I want to be a Java Web Backend Developer
 <summary>  <kbd>자세히보기</kbd> </summary>
 
 * 📖 교재 : [모두의 코드](https://modoocode.com/231)
-    * 첫 C언어 학습
+    * 처음으로 프로그래밍 C언어 학습을 시작했습니다
+    * 블로그의 예제를 하나하나 따라해보며 노트에 기록하는 방식으로 학습했습니다
 </details>
 
            
