@@ -137,7 +137,7 @@ I want to be a Java Web Backend Developer
 
 </details>
 
-📌 [C_42Piscine](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx) `Private`
+📌 [C_42Piscine](https://github.com/ejaee/42Piscine)
 
 <details>
 <summary>  <kbd>자세히보기</kbd> </summary>
@@ -147,7 +147,7 @@ I want to be a Java Web Backend Developer
 * 📖 교재 : [42seoul](https://42seoul.kr/seoul42/main/view)
 * 학습 목적
     * c언어에 내장되어있는 함수를 직접 구현하며 C언어를 학습합니다
-    * 42서울의 과제를 주체적으로 해석하여 C언어 학습에 도움이 되는 [교재](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx/C02)를 만들었습니다
+    * 42서울의 과제를 주체적으로 해석하여 C언어 학습에 도움이 되는 [교](https://github.com/ejaee/Study_42Piscine/tree/main/ejae/PiscineCxx/C02)를 만들었습니다
 
 * 과제
     * [개인 과제](https://github.com/nawooo/42_Study_Group/tree/main/ejae/PiscineCxx)
