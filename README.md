@@ -5,7 +5,7 @@
 👋 Hello! 
 
 
-<!-- 🔖 [CV](https://eggplant-break-4ae.notion.site/URL-78fffe7496134285a5b9ed48eca6b151) -->
+🔖 [CV](https://eggplant-break-4ae.notion.site/URL-78fffe7496134285a5b9ed48eca6b151)
 
 <!--
 ### :muscle: **Skills**
